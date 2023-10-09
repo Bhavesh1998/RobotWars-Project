@@ -1,4 +1,4 @@
-# RobotWars-Opentable-Project
+# RobotWars-Project
 
 The Robot-Wars Project is Java-based application which is used to deploy robots and find their final position as well as their head direction according to the user intructions. Implemented according to the given problem statement using Java Rich Features to design and develop understable code.
 
